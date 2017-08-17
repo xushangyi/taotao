@@ -11,6 +11,14 @@
         <module>../taotao-common</module>
         <module>../taotao-manage</module>
         <module>../taotao-manage-web</module>
+        <module>../taotao-portal</module>
+        <module>../taotao-sso</module>
+        <module>../taotao-sso-web</module>
+        <module>../taotao-search</module>
+        <module>../taotao-search-web</module>
+        <module>../taotao-item-web</module>
+        <module>../taotao-cart</module>
+        <module>../taotao-order</module>
     </modules>
     <packaging>pom</packaging>
 
